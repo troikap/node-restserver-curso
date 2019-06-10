@@ -1,0 +1,5 @@
+## BUEN API
+
+ ```
+ npm install
+ ```
